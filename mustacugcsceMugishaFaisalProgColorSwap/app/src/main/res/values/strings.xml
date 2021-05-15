@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">mustacugcsceMugishaFaisalProgColorSwap</string>
-    <string name="show_text">Tap Me!</string>
-    <string name="welcome_message">Welcome To The Button Tutorial</string>
+    <string name="app_name">must.ac.ug.csce.MugishaFaisal.ProgColorSwap</string>
+    <string name="show_text">Tap me</string>
+    <string name="welcome_message">Welcome to the Button Tutorial!</string>
 </resources>
